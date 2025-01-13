@@ -8,6 +8,8 @@ If you want to use this, great! If you want to fork it and make changes, go ahea
 
 ## Architecture Info
 
+When developing new applications, we typically follow the architecture outlined by [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture). When that is not possible for technical or business reasons, the below architecture is followed.
+
 [Architecture Development Diagram](https://github.com/Lickability/swift-style-guide/blob/main/ArchitectureDiagram.md)
 
 * **M** - [Model](https://github.com/Lickability/swift-style-guide/blob/main/Model.md)
@@ -18,7 +20,6 @@ If you want to use this, great! If you want to fork it and make changes, go ahea
 ### SwiftUI
 
 * [General Best Practices](https://github.com/Lickability/swift-style-guide/blob/main/SwiftUIBestPractices.md)
-* [View Store](https://github.com/Lickability/swift-style-guide/blob/main/ViewStore.md)
 
 ### Related Resources
 * [Common Controller Types](https://github.com/Lickability/swift-style-guide/blob/main/CommonControllerTypes.md)
